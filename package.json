@@ -1,0 +1,40 @@
+{
+  "_from": "timmattison-winwheel",
+  "_id": "timmattison-winwheel@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-0NiSJtYMiwpvvrcoW7Ks1IbAxBBvqHBTmxVWieUQ1avB2dwNV/B87MNH0nsAkxlx5q23UPUb3JbpUXjTKs6QOQ==",
+  "_location": "/timmattison-winwheel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "timmattison-winwheel",
+    "name": "timmattison-winwheel",
+    "escapedName": "timmattison-winwheel",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/timmattison-winwheel/-/timmattison-winwheel-1.0.2.tgz",
+  "_shasum": "97fd0b9ad380751c56616a2a95358210386cc26f",
+  "_spec": "timmattison-winwheel",
+  "_where": "C:\\Users\\zine-eddine\\Desktop\\Projets\\cadeo\\js",
+  "bugs": {
+    "url": "https://github.com/timmattison/javascript-winwheel/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Create spinning prize wheels on HTML canvas with Winwheel.js",
+  "homepage": "https://github.com/timmattison/javascript-winwheel#readme",
+  "license": "MIT",
+  "name": "timmattison-winwheel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmattison/javascript-winwheel.git"
+  },
+  "version": "1.0.2"
+}
